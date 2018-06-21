@@ -23,8 +23,8 @@
 
 ## Links
 
-* _[Here](https://github.com/n8cotoa/oregon-trail) is the link to The Oregon Trail repository._
-* _[Here](https://n8cotoa.github.io/oregon-trail) is the link to The Oregon Trail online game._
+* _[Here](https://github.com/putman10/oregon-trail) is the link to The Oregon Trail repository._
+* _[Here](https://putman10.github.io/oregon-trail) is the link to The Oregon Trail online game._
 
 ## License
 
